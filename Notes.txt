@@ -12,3 +12,6 @@ Notes from 2/26 pairing
   -Notes.rtxt
   -index.html
   -aggregator.jsp (delete?)
+  
+  
+  2/27
