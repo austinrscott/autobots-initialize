@@ -1,0 +1,17 @@
+Notes from 2/26 pairing
+
+-Purchased Chromenbook
+-Installed Eclipse on linux box- Linux box still needs compiler installed
+-set up gethub repos
+  -https://github.com/xeirxes/autobots-initialize.git
+-created simple org chart
+-Created GetHub.pages account
+  -http://xeirxes.github.io/autobots-initialize
+-Created following files
+  -HelloWorld.js
+  -Notes.rtxt
+  -index.html
+  
+  
+  
+  2/27- to do
