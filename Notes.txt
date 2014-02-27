@@ -11,7 +11,7 @@ Notes from 2/26 pairing
   -HelloWorld.js
   -Notes.rtxt
   -index.html
-  -aggregator.jsp (delete?)
   
   
-  2/27
+  
+  2/27- to do
